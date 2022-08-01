@@ -1,7 +1,5 @@
-import java.util.Scanner;
+System.out.println("Enter your weight in kg: ");
+        double weight = scanner.nextDouble();
 
-public class BMICalculator {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-    }
-}
+        System.out.println("Enter your height in meters: ");
+        double height = scanner.nextDouble();
