@@ -6,5 +6,8 @@ class Program
     {
         Console.Write("Enter weight in Kilograms: ");
         double weight = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter height in Meters: ");
+        double height = Convert.ToDouble(Console.ReadLine());
     }
 }
